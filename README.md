@@ -17,7 +17,6 @@
 ![](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 
 ![iliqnew's Stats](https://github-readme-stats.vercel.app/api?username=iliqnew&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![iliqnew's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iliqnew&theme=vue-dark&hide_border=true)
 ![iliqnew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliqnew&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 - 👋 Hi, I’m @iliqnew
