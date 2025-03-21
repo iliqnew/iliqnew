@@ -1,5 +1,7 @@
 # I'm Iliyan Iliev - a Passionate Software Developer 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iliqnew&label=Profile%20views&color=0e75b6&style=flat" alt="iliqnew" /> </p>
+
 #### My stack:
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -102,3 +104,4 @@
 iliqnew/iliqnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
